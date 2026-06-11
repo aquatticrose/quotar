@@ -1,4 +1,5 @@
 Website:  https://quotar.netlify.app
+          https://quotar.vercel.app
 
 
 Copyright (c) 2026 aquatticrose
