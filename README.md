@@ -1,5 +1,4 @@
 Website:  https://quotar.netlify.app
-
           https://quotar.vercel.app
 
 
